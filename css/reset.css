@@ -1,0 +1,14 @@
+/* FONTE  */ 
+@import url('../font/NotoSansMono-VariableFont_wdth\,wght.ttf');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-shadow: none;
+    border: none;
+}
+
+body{
+    background-color: rgb(70, 69, 69);
+}
